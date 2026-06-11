@@ -2,7 +2,7 @@
 
 A simple, responsive web app that searches and displays recipes from a public REST API. Search for any dish, browse the results as cards, and click one to see the full recipe — ingredients and instructions — in a popup.
 
-**Live demo:** _add your deployed URL here after deploying_
+**Live demo:** https://zumitify.github.io/recipe-explorer/
 
 ![React](https://img.shields.io/badge/React-18-61dafb) ![Vite](https://img.shields.io/badge/Vite-5-646cff)
 
